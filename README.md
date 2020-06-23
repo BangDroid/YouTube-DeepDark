@@ -1,7 +1,7 @@
-<h1 align="center">YouTube-DeepDark</h1>
+<h1 align="center">YouTube-DeepDark BangDroid Mods</h1>
 <img src="./YT_Images/banner.png">
 </h1>
-<p align="center">Videos should only be watched in the dark. May the dark be kinder on thine eyes. (YouTube dark theme)</p>
+<p align="center">Videos should only be watched in the dark. May the dark be kinder on thine eyes. (YouTube dark theme). This fork contains mods to provide compatibility with my other userstyles for YouTube. </p>
 
 # About
 
@@ -14,7 +14,7 @@ Code also taken from [youtube-custom-colors-video-progress-bar
 
 ## Installing
 
-[![alt tag](https://img.shields.io/badge/Install%20directly%20with-Stylus-%233daee9?style=for-the-badge)](https://github.com/RaitaroH/YouTube-DeepDark/raw/master/YouTubeDeepDarkMaterial.user.css)
+[![alt tag](https://img.shields.io/badge/Install%20directly%20with-Stylus-%233daee9?style=for-the-badge)](https://github.com/BangDroid/YouTube-DeepDark/raw/master/YouTubeDeepDarkMaterial.user.css)
 
 #### Using a browser extension:
 * Stylus - get the addon for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/).
