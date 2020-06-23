@@ -1,9 +1,9 @@
 /* ==UserStyle==
-@name YouTube DeepDark Material
+@name YouTube DeepDark Material (BangDroid Mods)
 @namespace gitlab.com/RaitaroH/YouTube-DeepDark
-@homepageURL https://github.com/RaitaroH/YouTube-DeepDark
+@homepageURL https://github.com/BangDroid/YouTube-DeepDark
 @version 3.3.3
-@updateURL https://raw.githubusercontent.com/RaitaroH/YouTube-DeepDark/master/YouTubeDeepDarkMaterial.user.css
+@updateURL https://raw.githubusercontent.com/BangDroid/YouTube-DeepDark/master/YouTubeDeepDarkMaterial.user.css
 @description Videos should only be watched in the dark. May the dark be kinder on thine eyes. (YouTube dark theme)
 @author RaitaroH
 @license GNU-V3.0
@@ -479,8 +479,8 @@
 		color: var(--dimmer-text) !important;
 	}
 
-	/*Backgrounds*/
-	#like-bar.ytd-sentiment-bar-renderer,#progress.ytd-thumbnail-overlay-resume-playback-renderer,#selectionBar.paper-tabs
+	/*Backgrounds - commented out for another userstyle*/
+	/*#like-bar.ytd-sentiment-bar-renderer,*/#selectionBar.paper-tabs
 	{
 		background-color: var(--main-color) !important;
 	}
@@ -853,14 +853,16 @@
 	{
 		color: var(--dimmer-text) !important;
 	}
+	/*commented out below for another userstyle*/
 	ytd-toggle-button-renderer.style-default-active a.yt-simple-endpoint.ytd-toggle-button-renderer /*active like/dislike buttons count*/
 	{
-		color: var(--main-color) !important;
+		/*color: var(--main-color) !important;*/
 	}
-	ytd-toggle-button-renderer yt-icon-button.style-default-active button yt-icon svg, /*active like/dislike buttons icons, active bell icon*/
-	ytd-toggle-button-renderer yt-icon-button[aria-pressed='true'] button yt-icon svg /*active like/dislike buttons icons, active bell icon*/
+    	/*commented out below for another userstyle*/
+	ytd-toggle-button-renderer yt-icon-button.style-default-active button yt-icon svg, 
+	ytd-toggle-button-renderer yt-icon-button[aria-pressed='true'] button yt-icon svg 
 	{
-		fill: var(--main-color) !important;
+		/*fill: var(--main-color) !important;*/
 	}
 	ytd-toggle-button-renderer.style-text[is-icon-button]:hover *, /*like/dislike*/
 	ytd-toggle-button-renderer.force-icon-button a.ytd-toggle-button-renderer:hover #text.ytd-toggle-button-renderer,
