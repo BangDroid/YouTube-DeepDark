@@ -41,13 +41,13 @@
 	"Custom"
 ]
 
-@var checkbox join-color "Use dark join button" 0
-@var checkbox subscribe-color "Use dark subscribe button" 0
+@var checkbox join-color "Use dark join button" 1
+@var checkbox subscribe-color "Use dark subscribe button" 1
 
-@var color mainColor "Custom main color" "#367bf0"
+@var color mainColor "Custom main color" "#959aa8"
 @var color mainBackground "Custom main background" "#22242d"
 @var color secondBackground "Custom second background" "#242730"
-@var color hoverBackground "Custom hover background" "#4e5467"
+@var color hoverBackground "Custom hover background" "#959aa8"
 @var color mainText "Custom main text" "#eee"
 @var color dimmerText "Custom second text" "#ccc"
 @var color colorShadow "Custom shadow color" "rgba(56, 60, 74, .3)"
