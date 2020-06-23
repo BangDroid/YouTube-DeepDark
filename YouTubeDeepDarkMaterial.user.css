@@ -1440,11 +1440,11 @@
 	/* progress bar */
 	.html5-play-progress, .ytp-play-progress
 	{
-		background: var(--main-color) !important;
+		background: var(--main-background) !important;
 	}
 	.ytp-volume-slider-track, .ytp-volume-slider-handle:before
 	{
-		background: var(--main-color) !important;
+		background: var(--main-background) !important;
 		z-index: -117;
 	}
 	.ytp-settings-button.ytp-hd-quality-badge::after, .ytp-settings-button.ytp-4k-quality-badge::after, .ytp-settings-button.ytp-5k-quality-badge::after, .ytp-settings-button.ytp-8k-quality-badge::after, .ytp-settings-button.ytp-3d-badge::after
