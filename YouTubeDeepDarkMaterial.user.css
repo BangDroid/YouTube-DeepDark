@@ -479,7 +479,7 @@
 		color: var(--dimmer-text) !important;
 	}
 
-	/*Backgrounds - commented out for another userstyle*/
+	/*Backgrounds - commented out for watched badge userstyle*/
 	/*#like-bar.ytd-sentiment-bar-renderer,*/#selectionBar.paper-tabs
 	{
 		background-color: var(--main-color) !important;
