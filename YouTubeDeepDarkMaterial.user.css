@@ -337,7 +337,7 @@
 	/*Background for the entire page*/
 	html, ytd-browse, ytd-watch, ytd-search, ytd-app, ytd-app[is-watch-page], [class*="ytd-watch-flexy"],
 	.style-scope.ytd-page-manager.hide-skeleton,
-	.account-container, ytd-feed-filter-chip-bar-renderer[sticky-chips]
+	.account-container, #chips ytd-feed-filter-chip-bar-renderer[sticky-chips]
 	{
 		background-color: var(--main-background) !important;
 	}
